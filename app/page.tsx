@@ -75,7 +75,7 @@ export default function Component() {
         <div className="absolute inset-0 bg-black/40" />
         <div className="relative mx-auto max-w-[1200px] px-4 pt-20">
             <div className="inline-block text-sm text-white/80 bg-white/20 px-4 py-2 rounded-full backdrop-filter backdrop-blur-lg">
-              Keywords Strategy
+              Community Solutions
             </div>
           <div className="max-w-2xl">
             <h1 className="mb-6 text-5xl font-bold leading-tight pt-10">
