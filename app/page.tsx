@@ -325,7 +325,7 @@ export default function Component() {
       {/* Contact Form */}
       <section className="relative bg-[#07080a] py-24">
         <Image
-          src="/backgrounds/ftz.png"
+          src="/video/1.jpg"
           alt="Background Pattern"
           width={1920}
           height={1080}
